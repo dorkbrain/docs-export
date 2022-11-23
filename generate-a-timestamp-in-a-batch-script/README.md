@@ -19,5 +19,5 @@ set month=%date:~4,2%
 set day=%date:~7,2%
 
 rem Example: 20160907\_081153
-set timestamp=%year%%month%%day%\_%hour%%minute%%second%
+set timestamp=%year%%month%%day%_%hour%%minute%%second%
 ```
