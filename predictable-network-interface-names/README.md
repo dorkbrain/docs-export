@@ -17,8 +17,8 @@ In newer versions of linux using systemd/udev v197 and higher (ie: CentOS/RHEL 7
 
  
 
-| Location Formats |
-| --- |
+| Location Formats | |
+| --- | |
 | o<index> | On-board device |
 | s<slot>\[f<function>\]\[d<dev\_id>\] | Hotplug |
 | x<mac> | MAC Address |
