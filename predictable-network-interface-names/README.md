@@ -9,8 +9,8 @@ tags:
 
 In newer versions of linux using systemd/udev v197 and higher (ie: CentOS/RHEL 7) the interface naming scheme has been changed to something that describes where the physical adapter is located in the computer.
 
-| Interface Types |
-| --- |
+| Interface Types | - |
+| --- | - |
 | en | Ethernet |
 | wl | Wireless LAN (WLAN) |
 | wn | Wireless Wide Area Network (WWAN) |
